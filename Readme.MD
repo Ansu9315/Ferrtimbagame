@@ -1,4 +1,5 @@
-GDD de 1 página     
+Projeto
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Rascunho de conceito:
@@ -6,11 +7,11 @@ Rascunho de conceito:
 
 
 
-Nome: 
+Nome:FerTimba 
 
 
 Descrição e objetivo:
-Jogo do tipo de plataforma 2D, onde um indígena que é o personagem principal caça pássaros para adquirir pontos para ser o melhor do Rank o melhor jogador até chegar na fase final onde o chefão do game tenta dar o golpe final.
+Jogo  de plataforma 2D, onde um indígena que é o personagem principal caça pássaros para adquirir pontos para ser o melhor do Rank o melhor jogador até chegar na fase final onde o chefão do game tenta dar o golpe final.
 
 Público Alvo:
 Homens e mulheres de todas as idades.
@@ -27,15 +28,4 @@ Características:
 - Será utilizada a engine  UNITY 2D.
 
 
-Proposta única de vendas:
-O jogo usa uma temática de plataforma, simulando um índio que está faminto, com uma mecânica simples e divertida, exigindo o jogador descobrir o tempo dos alvos adquirindo experiência e pontos.
-Homens e mulheres de todas as idades.
 
-
-
-
-Tema e Ambientação:
-- Cenários
-1º Floresta
-2º Rio
-- O Personagem principal será um índio.
